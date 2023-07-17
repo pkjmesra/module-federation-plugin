@@ -45,7 +45,7 @@
     "eslint": "7.10.0",
     "eslint-config-prettier": "6.0.0",
     "jest": "26.2.2",
-    "ngx-build-plus": "^10.1.1",
+    "ngx-build-plus": "^16.0.0",
     "prettier": "2.0.4",
     "ts-jest": "26.4.0",
     "ts-node": "~7.0.0",
